@@ -10,8 +10,8 @@ hr {
 }
 
 /* Site title */
-.site-title, 
-.site-title:visited {
+h1.site-title, 
+h1.site-title:visited {
     color: rgb(219, 213, 204) !important; /* Light color for the site title and visited links */
 }
 
