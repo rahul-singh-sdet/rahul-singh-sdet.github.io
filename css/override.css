@@ -66,3 +66,7 @@ a {
 h1, h2, h3, h4, h5, h6 {
     color: rgb(219, 213, 204) !important; /* Ensure headers are light */
 }
+
+.site-title {
+    color: rgb(219, 213, 204) !important; /* Light color for the site title */
+}
