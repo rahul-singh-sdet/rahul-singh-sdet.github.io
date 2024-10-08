@@ -9,10 +9,15 @@ hr {
     border: 1px solid #444; /* Lighter border for visibility */
 }
 
-/* Site title */
-h1.site-title, 
-h1.site-title:visited {
-    color: rgb(219, 213, 204) !important; /* Light color for the site title and visited links */
+/* Post title styles */
+.post-title, 
+.p-name {
+    color: rgb(219, 213, 204) !important; /* Light color for the post title */
+}
+
+.post-title:visited, 
+.p-name:visited {
+    color: rgb(219, 213, 204) !important; /* Light color for visited links */
 }
 
 /* Post navigation links */
