@@ -1,7 +1,9 @@
 body {
-    background-color: rgb(219, 213, 204) !important; /* Dark background */
-    color: #ffffff !important; /* Light text */
+    background-color: rgb(37, 38, 38) !important; /* Dark background */
+    color: rgb(219, 213, 204) !important; /* Light text */
 }
+
+
 
 hr {
     margin-top: 30px;
