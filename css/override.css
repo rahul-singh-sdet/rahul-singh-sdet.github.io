@@ -15,11 +15,6 @@ hr {
     color: rgb(219, 213, 204) !important; /* Light color for the post title */
 }
 
-.post-title:visited, 
-.p-name:visited {
-    color: rgb(219, 213, 204) !important; /* Light color for visited links */
-}
-
 /* Post navigation links */
 .post_navi {
     display: flex;
