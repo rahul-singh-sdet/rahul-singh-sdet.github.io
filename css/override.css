@@ -3,8 +3,6 @@ body {
     color: rgb(219, 213, 204) !important; /* Light text */
 }
 
-
-
 hr {
     margin-top: 30px;
     margin-bottom: 20px;
@@ -57,12 +55,4 @@ hr {
 /* Additional styles for links and headings */
 a {
     color: #bb86fc; /* Light purple for links */
-}
-
-h1, h2, h3, h4, h5, h6 {
-    color: #ffffff !important; /* Ensure headers are white */
-}
-
-.site-title {
-    color: #ffffff !important; /* Light text color for the site title */
 }
