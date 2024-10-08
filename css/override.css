@@ -17,13 +17,14 @@ hr {
 .post_navi-label {
     font-size: 0.8em;
     opacity: 0.7; /* Slightly higher opacity for readability */
-    color: #bbb; /* Light color for better visibility */
+    color: rgb(219, 213, 204); /* Light color for better visibility */
 }
 
 .post_navi .post_navi-item {
     padding: 0 2.2em;
     width: 50%;
     position: relative;
+    color: rgb(219, 213, 204); /* Ensure text is light */
 }
 
 .post_navi .nav_prev {
@@ -54,4 +55,8 @@ hr {
 /* Additional styles for links and headings */
 a {
     color: #bb86fc; /* Light purple for links */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: rgb(219, 213, 204) !important; /* Ensure headers are light */
 }
