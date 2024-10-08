@@ -24,7 +24,6 @@ hr {
     padding: 0 2.2em;
     width: 50%;
     position: relative;
-    color: #ffffff !important; /* Ensure text is white */
 }
 
 .post_navi .nav_prev {
